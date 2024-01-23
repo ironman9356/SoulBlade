@@ -56,5 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "SoulBlade.sln"
+    "dotnet.defaultSolution": "SoulBlade.sln",
+    "workbench.editor.languageDetection": false
 }
